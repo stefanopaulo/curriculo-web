@@ -4,7 +4,8 @@
   "description": "My currilo web",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "keywords": [
     "curriculo",
@@ -13,6 +14,8 @@
   "author": "Stefano Paulo",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
   }
 }

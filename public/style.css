@@ -1,0 +1,22 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* header */
+
+.header {
+text-align: center;
+}
+
+.main {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.card-education .college {
+    font-weight: 700;
+}
+
+.office {
+    font-style: italic;
+}
